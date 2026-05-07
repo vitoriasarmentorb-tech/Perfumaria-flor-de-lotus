@@ -38,7 +38,7 @@ i {
   }
 }
 .header-button {
-  border: 1px solid #dd17c3;
+  border: 1px solid #dd43d0;
   padding: 8px 24px;
   border-radius: 4px;
   color: #ffffff;
@@ -315,8 +315,8 @@ i {
   padding: 6px;
   border-radius: 8px;
   text-align: center;
-  background-color: #232224;
-  color: #FFF;
+  background-color: #bb87f0;
+  color: #000000;
   opacity: 0;
   transition: opacity 0.4s;
 }
