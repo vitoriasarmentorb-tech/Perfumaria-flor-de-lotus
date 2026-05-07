@@ -26,7 +26,7 @@ i {
 
 .header-icons a:hover i {
   animation: translateY 0.8s infinite alternate;
-  color: #6e5b54;
+  color: #fae5dd;
 }
 
 @keyframes translateY {
@@ -91,7 +91,7 @@ i {
   content: "";
   display: block;
   position: absolute;
-  background-image: linear-gradient(to bottom, rgba(56, 123, 190, 0.1), #fcda90), url("./assets/bg.jpg");
+  background-image: linear-gradient(to bottom, rgba(250, 184, 184, 0.87), #fcda90), url("./assets/bg.jpg");
   left: 0;
   top: 0;
   width: 100%;
@@ -164,9 +164,9 @@ i {
   }
 }
 .about {
-  background-color: #fa4069;
+  background-color: #000000;
   overflow: hidden;
-  color: #000000;
+  color: #ffffff;
 }
 
 .about-content {
@@ -199,8 +199,8 @@ i {
   }
 }
 .services {
-  background-color: #fe9c6b;
-  color: #000000;
+  background-color: #000000;
+  color: #ffffff;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -283,7 +283,7 @@ i {
   justify-content: center;
   padding: 54px 0;
   gap: 24px;
-  color: #fe9c6b;
+  color: #ffffff;
 }
 
 .footer-icons {
@@ -315,7 +315,7 @@ i {
   padding: 6px;
   border-radius: 8px;
   text-align: center;
-  background-color: #bb87f0;
+  background-color: #ffffff;
   color: #000000;
   opacity: 0;
   transition: opacity 0.4s;
@@ -336,7 +336,7 @@ body {
   width: 100%;
   height: 100vh;
   position: relative;
-  background-color: #6e5b54;
+  background-color: #000000;
   cursor: url("./assets/pont.png"), auto;
 }
 
