@@ -26,7 +26,7 @@ i {
 
 .header-icons a:hover i {
   animation: translateY 0.8s infinite alternate;
-  color: #ffd448;
+  color: #6e5b54;
 }
 
 @keyframes translateY {
@@ -125,7 +125,7 @@ i {
 
 .button-contact {
   padding: 14px 28px;
-  color: #e04d4d;
+  color: #6e5b54;
   background-color: #d94140;
   border: 0;
   font-size: 18px;
@@ -336,7 +336,7 @@ body {
   width: 100%;
   height: 100vh;
   position: relative;
-  background-color: #7a3c8d;
+  background-color: #6e5b54;
   cursor: url("./assets/pont.png"), auto;
 }
 
